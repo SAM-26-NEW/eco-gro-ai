@@ -1,4 +1,4 @@
-python
+
 import streamlit as st
 
 def generate_fertilizer_prescription(crop, current_pH, current_N, current_P, current_K):
